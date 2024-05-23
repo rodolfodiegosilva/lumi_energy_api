@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Edu27032016",
+    "database": "intital_db",
+    "host": "lumy-energy-test.c1kyau0aut59.us-east-2.rds.amazonaws.com", 
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "lumi_energy",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "root",
+    "database": "lumi_energy",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
