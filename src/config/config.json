@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Edu@27032016",
+    "database": "lumi_energy",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Edu@27032016",
+    "database": "lumi_energy",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Edu@27032016",
+    "database": "lumi_energy",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
